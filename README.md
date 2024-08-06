@@ -1,5 +1,4 @@
 # 💫About Me :
 
-I'm Sulaiman Gafoor - a former teacher, current Coding Mentor, and future Data Scientist
+I'm Sulaiman Gafoor - a qualified Mathematics and Natural Sciences eduactor with a passion for coding.
  
-🌱 I’m currently learning : Typescript and Django.
